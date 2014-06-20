@@ -12,6 +12,7 @@
 		0B208E9B1952DF6100A75D61 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B208E991952DF6100A75D61 /* Main.storyboard */; };
 		0B208E9D1952DF6100A75D61 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B208E9C1952DF6100A75D61 /* Images.xcassets */; };
 		0B208EA91952DF6100A75D61 /* ClosureUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B208EA81952DF6100A75D61 /* ClosureUITests.swift */; };
+		0B208EB31952DF8B00A75D61 /* UIButton+Closure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B208EB21952DF8B00A75D61 /* UIButton+Closure.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +35,7 @@
 		0B208EA21952DF6100A75D61 /* ClosureUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClosureUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B208EA71952DF6100A75D61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0B208EA81952DF6100A75D61 /* ClosureUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosureUITests.swift; sourceTree = "<group>"; };
+		0B208EB21952DF8B00A75D61 /* UIButton+Closure.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIButton+Closure.swift"; path = "../UIButton+Closure.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 		0B208E921952DF6100A75D61 /* ClosureUI */ = {
 			isa = PBXGroup;
 			children = (
+				0B208EB21952DF8B00A75D61 /* UIButton+Closure.swift */,
 				0B208E951952DF6100A75D61 /* AppDelegate.swift */,
 				0B208E971952DF6100A75D61 /* ViewController.swift */,
 				0B208E991952DF6100A75D61 /* Main.storyboard */,
@@ -210,6 +213,7 @@
 			files = (
 				0B208E981952DF6100A75D61 /* ViewController.swift in Sources */,
 				0B208E961952DF6100A75D61 /* AppDelegate.swift in Sources */,
+				0B208EB31952DF8B00A75D61 /* UIButton+Closure.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

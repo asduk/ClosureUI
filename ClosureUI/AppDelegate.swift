@@ -3,7 +3,7 @@
 //  ClosureUI
 //
 //  Created by asduk on 14-6-19.
-//  Copyright (c) 2014年 asduk. All rights reserved.
+//  Copyright (c) 2014 asduk. All rights reserved.
 //
 
 import UIKit
